@@ -60,6 +60,10 @@ class TriviaViewController: UIViewController {
       answerButton3.setTitle(answers[3], for: .normal)
       answerButton3.isHidden = false
     }
+    if answers.count == 2 {
+        answerButton2.isHidden = true
+        answerButton3.isHidden = true
+    }
   }
   
   private func updateToNextQuestion(answer: String) {
