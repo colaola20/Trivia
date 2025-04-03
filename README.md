@@ -1,10 +1,10 @@
-# Project 4 - *Name of App Here*
+# Project 4 - Trivia
 
-Submitted by: **Your Name Here**
+Submitted by: Olha Sorych
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that displays a question and 4 choices. 
 
-Time spent: **X** hours spent in total
+Time spent: 6
 
 ## Required Features
 
@@ -16,6 +16,8 @@ The following **required** functionality is completed:
 - [x] Users can see score after submitting all questions.
 - [x] True or False questions only have two options.
 
+Since I have been moved to an Observer Role, (I'm not sure why because my extension for module 5 hasn't passed by that time) I'm leaving the link for my project for week 6 here: https://github.com/colaola20/Tumblr-Feed.git.
+Anyways if it's a miscommunication, I apologize.
 
 The following **optional** features are implemented:
 
